@@ -1,4 +1,5 @@
 int a,b;
 int c=a+b;
-int d=c-b;
-int f=c*b;
+int i;
+int g=a+b+i;
+int h=a*b*i;
