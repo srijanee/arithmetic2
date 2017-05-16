@@ -1,3 +1,4 @@
 int a,b;
 int c=a+b;
 int d=c-b;
+int f=c*b;
